@@ -1,3 +1,5 @@
+[![codebeat badge](https://codebeat.co/badges/bb05528d-63bc-4640-90f6-edf12fd46d2b)](https://codebeat.co/projects/github-com-blastar-coredatawithicloud)
+
 CoreDataWithiCloud
 ==================
 
